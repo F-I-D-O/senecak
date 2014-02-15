@@ -1,0 +1,80 @@
+
+body {
+    background: #b2b2b2;
+}
+
+button {
+    display: block;
+}
+
+header {
+    max-width: 1000px;
+    height: 80px;
+    margin: auto;
+    background: #9B410E;
+}
+
+footer {
+    max-width: 1000px;
+    height: 80px;
+    margin: auto;
+    background: #e19edf;
+}
+
+#clanek {
+    max-width: 1000px;
+    min-height: 250px;
+    margin: auto;
+    overflow: auto;
+    background: #9ee1dd;
+}
+
+#hlavni {
+    /*width: 1000px;*/
+    margin: auto;
+    background: #c9e19e;
+}
+
+#nadpis {
+    float: left;
+    /*width: 400px;*/
+}
+
+#obal-clanek {
+    background: #B84215;
+}
+
+#obal-hlavicka {
+    background: #684215;
+}
+
+#obal-hlavni_slider {
+    background: #000000;
+}
+
+
+
+
+#obal-hlavni_slider .nivoSlider {
+    clear: both;
+    max-width: 1000px;
+    height: 500px;
+    margin: auto;
+    background: #f0c040;
+}
+
+
+
+.info {
+    display: none;
+}
+
+/* menu */
+
+#menu button{
+    float: left;
+}
+
+
+/* slider */
+

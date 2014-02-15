@@ -1,0 +1,5 @@
+
+# zapnutí přesměrování
+RewriteEngine on
+
+RewriteRule    ^([^\.]+)$    index.php?stranka=$1
