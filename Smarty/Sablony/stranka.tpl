@@ -95,7 +95,7 @@
 		</div>
 		<div id="obal-patka">
 			<footer>
-
+				<div id="prihlasovani"></div>
 			</footer>
 		</div>
     </div>

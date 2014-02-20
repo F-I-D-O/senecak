@@ -70,6 +70,9 @@ $.reject({
 
 
 
+
+
+
 var mapaStranek = new Object();
 mapaStranek[''] = new Stranka("", "2");
 mapaStranek['stredisko'] = new Stranka("", "2");
